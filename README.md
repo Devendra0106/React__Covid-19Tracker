@@ -2,7 +2,7 @@
 App keeps track of real time covid-19 affected, dead and recovered cases. Responsive application developed using React.js, flex-box, Material UI and firebase.
 
 ## Live Demo
-### `App deplyed on firebase`
+### `App deployed on firebase`
 [Covid-19 Tracker](https://covid19-report-6ae83.web.app/)
 
 ## Features
